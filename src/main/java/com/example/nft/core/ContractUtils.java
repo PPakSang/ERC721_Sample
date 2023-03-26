@@ -1,4 +1,4 @@
-package com.example.nft.core.ticket;
+package com.example.nft.core;
 
 import java.io.IOException;
 import java.math.BigInteger;

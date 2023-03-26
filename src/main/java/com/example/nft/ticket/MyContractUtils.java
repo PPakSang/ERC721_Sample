@@ -1,6 +1,6 @@
 package com.example.nft.ticket;
 
-import com.example.nft.core.ticket.ContractUtils;
+import com.example.nft.core.ContractUtils;
 import java.io.IOException;
 import java.util.List;
 import org.web3j.abi.FunctionReturnDecoder;
